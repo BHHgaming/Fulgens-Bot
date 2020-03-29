@@ -1,6 +1,7 @@
 # Feature
-## Game 1
-* **Di Chuyển.**
-## Game 2
-* **Nhảy.**
-  * **Nhảy 2 lần.**
+## Tên Game 1
+* **Nút 1.**
+## Tên Game 2
+* **Nút 2.**
+  * **Nút 2,1.**
+  * **Nút 2,2.**
