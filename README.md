@@ -1,6 +1,6 @@
 # [Fulgens Bot](https://giveawaybot.party)
 
-[![Discord](https://discordapp.com/api/guilds/585687812548853760/widget.png)](https://discordapp.com/invite/Q5wxTJF)
+[![Discord](https://discordapp.com/api/guilds/585687812548853760/widget.png)](https://discordapp.com/invite/Pandas)
 
 ## Infor
 **Made By: [Ailurus Fulgens#5604](https://discordapp.com)**
